@@ -1,9 +1,9 @@
-Nevnap
+##Nevnap
 
 A codeigniter helper for displaying hungarian namedays
 
-Usage: 
-     echo nevnap();
+Usage:
+    echo nevnap();
 
 text_month() usage:
 
